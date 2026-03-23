@@ -52,6 +52,8 @@ A gamified accountability system that tracks user behavior. It penalizes no-show
 
 ## 📱 UI Showcase
 
+> 📄 **Note on Full Documentation:** The comprehensive UI analysis, architectural system decisions, and an **interactive Figma prototype video link** can be found starting on **Page 52** of the attached `Analysis Report.pdf`.
+
 ### Authentication & Onboarding
 <p align="center">
   <img src="./assets/login.png" width="30%" alt="Login Screen">
