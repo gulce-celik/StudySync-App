@@ -91,11 +91,8 @@ A gamified accountability system that tracks user behavior. It penalizes no-show
 * **System-Level Thinking:** Scalable design structure supporting real-time updates and concurrent user management logic.
 
 ---
-
-## 📩 Let's Connect
-
-This project serves as a comprehensive product-level design case study, demonstrating my end-to-end product thinking, UX strategy, and UI execution.
-
-I am a UI/UX Designer focused on creating scalable, intuitive solutions to complex problems. If you are interested in discussing product design, UX strategy, or potential opportunities, feel free to reach out.
-
+## 🚀 Next Steps & Ongoing Development
+This repository currently showcases the UI/UX design and system architecture phase of StudySync. 
+The project is actively moving forward, and the next phase will focus on **frontend and backend implementation** to bring this product to life. I will be directly contributing to the development and implementation process, ensuring the final application aligns perfectly with the designed user experience and system requirements.
+---
 [View my GitHub Profile](https://github.com/gulce-celik)
