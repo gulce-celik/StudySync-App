@@ -106,5 +106,3 @@ The project is actively moving forward, and the next phase will focus on **front
 
 [View my GitHub Profile](https://github.com/gulce-celik)
 
-[View my GitHub Profile](https://github.com/gulce-celik)
-
