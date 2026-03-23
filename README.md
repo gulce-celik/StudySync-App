@@ -1,4 +1,8 @@
-# StudySync: Smart Study Space & AI Planning Platform
+# 📱 StudySync: Smart Study Space & AI Planning Platform
+
+<p align="center">
+  <img src="./assets/login.png" width="200" alt="StudySync App">
+</p>
 
 > A mobile-first platform designed to optimize study environments, enhance productivity, and enable collaborative learning through AI-powered recommendations.
 
@@ -91,8 +95,16 @@ A gamified accountability system that tracks user behavior. It penalizes no-show
 * **System-Level Thinking:** Scalable design structure supporting real-time updates and concurrent user management logic.
 
 ---
+
 ## 🚀 Next Steps & Ongoing Development
+
 This repository currently showcases the UI/UX design and system architecture phase of StudySync. 
+
 The project is actively moving forward, and the next phase will focus on **frontend and backend implementation** to bring this product to life. I will be directly contributing to the development and implementation process, ensuring the final application aligns perfectly with the designed user experience and system requirements.
+
 ---
+
 [View my GitHub Profile](https://github.com/gulce-celik)
+
+[View my GitHub Profile](https://github.com/gulce-celik)
+
